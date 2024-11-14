@@ -1,0 +1,6 @@
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\bin\Debug\LabOOP4.exe.config
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\bin\Debug\LabOOP4.exe
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\bin\Debug\LabOOP4.pdb
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\obj\Debug\LabOOP4.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\obj\Debug\LabOOP4.exe
+C:\Users\vival\source\repos\LabOOP4\LabOOP4\obj\Debug\LabOOP4.pdb
